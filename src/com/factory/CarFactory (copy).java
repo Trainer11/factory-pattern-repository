@@ -2,7 +2,7 @@ package com.factory;
 
 import com.factory.impl.EdurekaCar;
 import com.factory.impl.XyzCar;
-// changes made for third commit
+
 public class CarFactory {
 
 	public Car getCar(String carName) {
